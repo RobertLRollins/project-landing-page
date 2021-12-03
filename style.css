@@ -42,6 +42,7 @@ a:hover {
     align-items: flex-start;
     justify-content: center;
     gap: 30px;
+    width: 400px;
 }
 .section2 {
     display: flex;
@@ -64,7 +65,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 30px;
+    gap: 120px;
     padding: 45px;
     margin: 60px;
     margin-bottom: 30px;
