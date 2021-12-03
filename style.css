@@ -1,8 +1,8 @@
-body {
-    display: flex;
+.banner {
+    max-width: 600px;
+    max-height: auto;
 }
-
-.header,
-.footer{
-    background-color: #1f2937;
+.square {
+    width: 150px;
+    height: 150px;
 }
